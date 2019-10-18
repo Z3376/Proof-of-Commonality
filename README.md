@@ -1,5 +1,5 @@
 # Proof-of-Commonality
-Blockchain consensus hypothesis based on anomaly detection using LSTM-GAN.
+A blockchain consensus hypothesis, based on anomaly detection using LSTM-GAN.
 
 Common consensus protocols like Proof of Work, Proof of Stake etc. face problems (described in Doc) while scaling.
 If we can select a subset of nodes based on certain criteria, only which will compete to create a block, this solves the scaling issue.
