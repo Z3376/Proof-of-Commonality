@@ -1,0 +1,7 @@
+pandas==0.24.2
+numpy==1.16.4
+keras==2.2.4
+sklearn==0.21.3
+tqdm==4.28.1
+IPython==5.5.0
+matplotlib==3.0.3
